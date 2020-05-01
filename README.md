@@ -1,2 +1,2 @@
 # snort_conf
-Latest SNORT working configuration (Emerging rules + Talos rules)
+Latest SNORT working configuration (Community rules + Emerging rules + Talos rules)
